@@ -1,6 +1,6 @@
 {
-  "title": "SB Admin",
-  "name": "startbootstrap-sb-admin",
+  "title": "New Age",
+  "name": "startbootstrap-new-age",
   "version": "4.0.0-beta",
   "description": "A one page app landing page HTML theme for Bootstrap.",
   "keywords": [
@@ -9,13 +9,11 @@
     "html",
     "responsive",
     "theme",
-    "template",
-    "admin",
-    "app"
+    "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/sb-admin",
+  "homepage": "https://startbootstrap.com/template-overviews/new-age",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-sb-admin/issues",
+    "url": "https://github.com/BlackrockDigital/startbootstrap-new-age/issues",
     "email": "feedback@startbootstrap.com"
   },
   "license": "MIT",
@@ -25,16 +23,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-sb-admin.git"
+    "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
-    "chart.js": "2.6.0",
-    "datatables.net-bs4": "1.10.15",
     "font-awesome": "4.7.0",
     "jquery": "^3.2.1",
     "jquery.easing": "^1.4.1",
-    "popper.js": "^1.11.1"
+    "popper.js": "^1.11.1",
+    "simple-line-icons": "2.4.1"
   },
   "devDependencies": {
     "browser-sync": "2.18.13",
